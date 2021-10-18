@@ -227,8 +227,8 @@ h1.title {
 @page:first{
     background-image: var(--front-cover);
     background-repeat: no-repeat;
-    background-position: 25% 15%;
-    background-size: 2cm;
+    background-position: 30% 10%;
+    background-size: 5cm;
 
     @top-left-corner {
       content: "";
@@ -276,7 +276,7 @@ h1.title {
         content: "";
         margin-top: -70%;
         margin-right: -50%;
-        margin-left: 60%;
+        margin-left: 90%;
         margin-bottom: -40%;
         color: #ffffff;
         background-color: #ffffff;
@@ -286,15 +286,15 @@ h1.title {
     @bottom-center {
         content: "";
         margin-top: -70%;
-        margin-right: -80%;
+        margin-right: -100%;
         margin-left: -50%;
         margin-bottom: -40%;
         color: #ffffff;
         background-color: #ffffff;
         background-image: var(--back-cover) ;
         background-repeat: no-repeat;
-        background-position: 80% 20%;
-        background-size: 2cm;
+        background-position: 85% 30%;
+        background-size: 5cm;
         border: none;
     }
 
